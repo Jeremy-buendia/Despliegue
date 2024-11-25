@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#VSCode
+.vscode/
+
+#Archivos temporales de editores
+*.swp
+*.tmp
+*.bak
+
+#Logs y registros
+*.log
+
+
